@@ -12,15 +12,15 @@ Python: Pandas, NumPy, Seaborn, Matplotlib<br />
 Jupyter Notebook: Interactive EDA & experimentation<br />
 
 # Features
-1.Data Cleaning
+1.Data Cleaning<br />
  Handle missing values, inconsistent encodings, and duplicates<br />
-2.Exploratory Data Analysis (EDA)
+2.Exploratory Data Analysis (EDA)<br />
  Distribution of views, likes, dislikes<br />
  Correlation between engagement metrics<br />
-3.Sentiment Analysis (VADER)
+3.Sentiment Analysis (VADER)<br />
  Classify comments into positive, negative, neutral<br />
  Compute sentiment polarity scores<br />
-4.Trend Analysis
+4.Trend Analysis<br />
  Identify top-performing channels and videos<br />
-5.Visualizations
+5.Visualizations<br />
  Bar plots, histograms, line charts, heatmaps<br />
